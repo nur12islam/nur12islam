@@ -22,27 +22,115 @@
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBlY2QzZTBhOTQ0OTQ2NzViYTI5NjQ0NTRiMWNhNTQ0NTYwNTA0NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" width="40" height="40" />
 </div>
 
-## 🖥️ JARVIS BOOT SEQUENCE
+## 🖥️ SYSTEM TERMINAL
 
-```yaml
-> Initializing system...
-[████████████████████████████████] 100%
+<table align="center">
+  <tr>
+    <td width="55%" valign="top">
+<pre><code>┌────────────────────────────────────────────────────────┐
+│                    JARVIS AI v3.0                      │
+├────────────────────────────────────────────────────────┤
+│ > Initializing system...                               │
+│ [████████████████████████████████] 100%                │
+│                                                        │
+│ ✓ Android Development Engine                           │
+│ ✓ Telegram Automation Framework                        │
+│ ✓ Study Sphere Workspace                               │
+│ ✓ AI Integration Modules                               │
+│ ✓ JavaScript Runtime                                   │
+│ ✓ Linux Environment                                    │
+│ ✓ Creative Design Suite                                │
+│ ✓ GitHub Synchronization                               │
+│                                                        │
+│ Developer : Nur Islam                                  │
+│ Status    : ONLINE                                     │
+│ Mode      : DEVELOPMENT                                │
+│ System    : Linux                                      │
+│ Editor    : VS Code                                    │
+│ Mission   : Build elegant software                     │
+│                                                        │
+│ > Welcome back, Nur.                                   │
+└────────────────────────────────────────────────────────┘</code></pre>
+    </td>
+    <td width="45%" valign="top">
+<pre><code>╭──────────────────────────────────────────────╮
+│                                              │
+│        🚀 CURRENT DEVELOPMENT STATUS         │
+│                                              │
+│   📚 Study Sphere                 ████████░░ │
+│   🤖 Telegram Automation          ██████████ │
+│   ⚡ AI Utilities                 ███████░░░ │
+│   🌐 Web Development              ████████░░ │
+│   🎨 UI / UX                      █████████░ │
+│                                              │
+╰──────────────────────────────────────────────╯</code></pre>
+    </td>
+  </tr>
+</table>
 
-[✓] Core      : Android Development Engine
-[✓] Module    : Telegram Automation Framework
-[✓] Workspace : Study Sphere Platform
-[✓] Runtime   : Node.js / JavaScript
-[✓] OS        : Linux Environment
+## 🛸 DEVELOPER IDENTITY
 
-> Developer   : Nur Islam (DARKI)
-> Status      : ONLINE 🟢
-> Mission     : "Build something today that makes tomorrow easier."
-```
+<table align="center">
+  <tr>
+    <td width="60%" valign="top">
+<pre lang="javascript"><code>const nur = {
+    name: "Nur Islam",
+    alias: "DARKI",
+    role: "Student • Android Developer • Telegram Automation Developer",
+    location: "India",
+    focus: [
+        "Android Applications",
+        "Telegram Automation",
+        "Artificial Intelligence",
+        "Open Source",
+        "Modern UI/UX"
+    ],
+    currentlyBuilding: {
+        app: "Study Sphere",
+        automation: "Telegram Userbot",
+        ai: "AI Productivity Tools",
+        web: "Modern Portfolio & Utilities"
+    },
+    tech: {
+        frontend: ["HTML", "CSS", "JavaScript"],
+        backend: ["Node.js"],
+        mobile: ["Android"],
+        database: ["Firebase", "SQLite"],
+        tools: ["Git", "GitHub", "VS Code", "Linux", "Figma"]
+    },
+    motto: "Build something today that makes tomorrow easier."
+};</code></pre>
+    </td>
+    <td width="40%" valign="top">
+      <h3>💡 Quick Info</h3>
+      <ul>
+        <li>💼 Android & JavaScript Developer</li>
+        <li>📱 Creator of Study Sphere</li>
+        <li>🤖 Telegram Automation Enthusiast</li>
+        <li>🌐 Open Source Contributor</li>
+        <li>🎨 UI/UX & Graphics Designer</li>
+        <li>🐧 Linux User</li>
+        <li>⚡ Always Learning New Technologies</li>
+      </ul>
+      <br>
+<pre lang="yaml"><code># Fun Facts
+Name: Nur Islam
+Alias: DARKI
+OS: Linux 🐧
+Editor: VS Code
+Favorite Language: JavaScript
+Currently Learning:
+  - AI
+  - Android
+  - Cloud Tech</code></pre>
+    </td>
+  </tr>
+</table>
 
 ## ⚡ Tech Stack & Arsenal
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,nodejs,firebase,npm,androidstudio,gradle,sqlite,mongodb,git,github,vscode,linux,bash,figma&perline=9" />
+  <img src="https://skillicons.dev/icons?i=js,python,html,css,nodejs,firebase,npm,androidstudio,gradle,sqlite,mongodb,git,github,vscode,linux,bash,figma,ps,ai,docker,cloudflare,vercel,netlify,markdown&perline=12" />
 </div>
 
 <br>
@@ -79,7 +167,7 @@
           <li>📖 Smart Notes & Rich Text</li>
           <li>📷 Document Scanner Integration</li>
           <li>☁️ Cloud Sync & File Manager</li>
-          <li>📄 PDF Reader</li>
+          <li>📄 PDF Reader & Planner</li>
         </ul>
       </div>
     </td>
@@ -101,37 +189,52 @@
   </tr>
 </table>
 
-## 🛸 Beyond The Code
+### 📂 More Projects
+| 🚀 Project | Description | Status |
+|:---------:|-------------|:------:|
+| 📚 **Study Sphere** | Student productivity platform with notes, PDF management, document scanner, cloud sync and modern UI. | 🟢 Active |
+| 🤖 **Telegram Userbot** | Powerful automation framework with AI utilities, media tools, admin features and productivity commands. | 🟢 Active |
+| 🌐 **Modern Web Projects** | Responsive websites featuring glassmorphism, animations and premium UI. | 🟢 Active |
+| ⚡ **AI Utilities** | AI-powered tools for automation, productivity and learning. | 🚧 In Progress |
+
+
+## ⚙️ Development Environment
 
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3>🎯 2026 Goals</h3>
-      <ul>
-        <li>🚀 Release new versions of Study Sphere</li>
-        <li>🤖 Build advanced Telegram automation tools</li>
-        <li>🌍 Contribute consistently to Open Source</li>
-        <li>💡 Create tools for student productivity</li>
-      </ul>
-      <br>
-      <h3>🚀 Always Exploring</h3>
-      <div align="left">
-        <img src="https://skillicons.dev/icons?i=docker,cloudflare,vercel,netlify,markdown&perline=5"/>
-      </div>
+<pre lang="yaml"><code>OS:
+  - Linux
+Editor:
+  - VS Code
+Version Control:
+  - Git
+  - GitHub
+Package Manager:
+  - npm
+Database:
+  - Firebase
+  - SQLite
+Design:
+  - Figma
+  - Photoshop
+Deployment:
+  - GitHub Pages
+  - Linux Server</code></pre>
     </td>
     <td width="50%" valign="top">
-      <h3>💡 Developer Identity</h3>
-<pre lang="javascript"><code>const developer = {
-  alias: "DARKI",
-  location: "India",
-  interests: [
-    "Open Source", 
-    "UI/UX Design", 
-    "Linux Customization"
-  ],
-  currentFocus: "Building intelligent automation and beautiful mobile experiences.",
-  contact: "Always open to collaborating on interesting projects!"
-};</code></pre>
+      <h3>🎯 2026 Goals</h3>
+      <ul>
+        <li>🚀 Build useful Open Source software</li>
+        <li>🤖 Create AI-powered Telegram tools</li>
+        <li>📱 Publish Android apps</li>
+        <li>🌍 Contribute more to GitHub</li>
+        <li>⚡ Learn new technologies</li>
+      </ul>
+      <br>
+      <blockquote>
+        "Code should solve problems, design should create experiences, and technology should make life easier."
+      </blockquote>
     </td>
   </tr>
 </table>
