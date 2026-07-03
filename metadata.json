@@ -1,0 +1,6 @@
+{
+  "name": "Nur Islam Portfolio",
+  "description": "Personal developer portfolio for Nur Islam (DARKI), showcasing Android apps, Telegram automation, and open source projects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
