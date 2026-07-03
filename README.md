@@ -52,6 +52,18 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nur12islam&layout=compact&theme=dark&bg_color=0d1117&border_color=00E5FF&title_color=00E5FF&hide_border=true&border_radius=10" height="190" />
 </div>
 
+<br>
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nur12islam&bg_color=0d1117&color=00E5FF&line=00E5FF&point=ffffff&area=true&hide_border=true" />
+</div>
+
+<br>
+
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=nur12islam&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
+</div>
+
 ## 🚀 Featured Architectures
 
 <table align="center">
@@ -91,15 +103,38 @@
 
 ## 🛸 Beyond The Code
 
-```javascript
-const developer = {
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🎯 2026 Goals</h3>
+      <ul>
+        <li>🚀 Release new versions of Study Sphere</li>
+        <li>🤖 Build advanced Telegram automation tools</li>
+        <li>🌍 Contribute consistently to Open Source</li>
+        <li>💡 Create tools for student productivity</li>
+      </ul>
+      <br>
+      <h3>🚀 Always Exploring</h3>
+      <div align="left">
+        <img src="https://skillicons.dev/icons?i=docker,cloudflare,vercel,netlify,markdown&perline=5"/>
+      </div>
+    </td>
+    <td width="50%" valign="top">
+      <h3>💡 Developer Identity</h3>
+<pre lang="javascript"><code>const developer = {
   alias: "DARKI",
   location: "India",
-  interests: ["Open Source", "UI/UX Design", "Linux Customization"],
+  interests: [
+    "Open Source", 
+    "UI/UX Design", 
+    "Linux Customization"
+  ],
   currentFocus: "Building intelligent automation and beautiful mobile experiences.",
   contact: "Always open to collaborating on interesting projects!"
-};
-```
+};</code></pre>
+    </td>
+  </tr>
+</table>
 
 <div align="center">
   <br>
