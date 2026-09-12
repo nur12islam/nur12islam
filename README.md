@@ -31,6 +31,8 @@
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/nur12islam/nur12islam/main/assets/darki-boot.svg" alt="DARKI animated boot sequence" width="100%"/>
+
 <img src="https://raw.githubusercontent.com/nur12islam/nur12islam/main/assets/darki-core.svg" alt="Animated DARKI system core" width="100%"/>
 
 </div>
