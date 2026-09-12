@@ -1,245 +1,196 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Nur%20Islam&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Android%20Developer%20|%20Telegram%20Automation%20|%20Open%20Source&descAlignY=55&descSize=16"/>
+
+# ◢ DARKI // NUR ISLAM ◣
+
+### `CREATIVE TECHNOLOGIST · DEVELOPER · DESIGNER · BUILDER`
+
+[![Profile](https://img.shields.io/badge/PROFILE-nur12islam-0d1117?style=for-the-badge&logo=github&logoColor=00e5ff)](https://github.com/nur12islam)
+[![Portfolio](https://img.shields.io/badge/PORTFOLIO-LIVE-0d1117?style=for-the-badge&logo=googlechrome&logoColor=00e5ff)](https://nur12islam.github.io)
+[![CV](https://img.shields.io/badge/CV-OPEN-0d1117?style=for-the-badge&logo=adobeacrobatreader&logoColor=00e5ff)](https://nur12islam.github.io/darki-cv.pdf)
+
+<img src="https://capsule-render.vercel.app/api?type=waving&height=170&color=0:050b14,50:0b2535,100:00e5ff&text=DARKI&fontSize=58&fontColor=ffffff&animation=fadeIn&fontAlignY=42&desc=NUR%20ISLAM%20%2F%2F%20SYSTEM%20ONLINE&descAlignY=65&descSize=13" width="100%"/>
+
 </div>
+
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│                         DARKI // SYSTEM                              │
+├──────────────────────────────────────────────────────────────────────┤
+│ IDENTITY   : Nur Islam                                               │
+│ ALIAS      : DARKI                                                   │
+│ ROLE       : Student • Developer • Video Editor • Graphics Designer  │
+│ BASE       : India                                                   │
+│ MODE       : BUILD / DESIGN / EXPLORE                                │
+│ STATUS     : ● ONLINE                                                │
+│                                                                      │
+│ CORE       : Android · Web · AI · Automation · UI/UX · Linux        │
+│ CURRENT    : Rits · rits-ub · Thesis-Verse · Pc-darki · Odysseus    │
+│ MISSION    : Build useful software with a distinctive visual soul.  │
+└──────────────────────────────────────────────────────────────────────┘
+```
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&width=800&lines=Hey+there!+I'm+Nur+Islam+(DARKI);Android+Developer+%26+Linux+Enthusiast;Telegram+Automation+Expert;Creator+of+Study+Sphere;Building+Elegant+Software+Solutions"/>
+
+> **Code builds the engine. Design gives it a personality.**
+
 </div>
+
+## `01` // ABOUT
+
+I’m **Nur Islam**, known online as **DARKI** — a student and creative technologist who moves between software, design and media.
+
+I enjoy turning ideas into practical tools: Android and web applications, Telegram automation, AI experiments, Linux workflows, visual systems, and creative projects. My portfolio is intentionally a mix of **engineering + design + experimentation**.
+
+My personal site is the visual layer of the ecosystem; this profile is the **source-code layer**.
+
+**→ Live portfolio:** https://nur12islam.github.io
+
+## `02` // TECH ARSENAL
 
 <div align="center">
-  <a href="https://github.com/nur12islam">
-    <img src="https://img.shields.io/github/followers/nur12islam?label=Followers&style=for-the-badge&color=00bfff&logo=github&logoColor=white"/>
-  </a>
-  <a href="https://github.com/nur12islam">
-    <img src="https://img.shields.io/github/stars/nur12islam?affiliations=OWNER&style=for-the-badge&color=00bfff&logo=apachespark&logoColor=white"/>
-  </a>
-  <img src="https://komarev.com/ghpvc/?username=nur12islam&style=for-the-badge&color=00bfff&label=Profile+Views&logo=eye"/>
+
+<img src="https://skillicons.dev/icons?i=js,ts,python,html,css,nodejs,react,vite,androidstudio,gradle,sqlite,mongodb,firebase,git,github,linux,bash,docker,cloudflare,vercel,figma,ps,ai&perline=12" />
+
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZDBlY2QzZTBhOTQ0OTQ2NzViYTI5NjQ0NTRiMWNhNTQ0NTYwNTA0NyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/l3vRfNA1p0rvhMSvS/giphy.gif" width="40" height="40" />
-</div>
-
-## 🖥️ SYSTEM TERMINAL
-
-<table align="center">
-  <tr>
-    <td width="55%" valign="top">
-<pre><code>┌────────────────────────────────────────────────────────┐
-│                    JARVIS AI v3.0                      │
-├────────────────────────────────────────────────────────┤
-│ > Initializing system...                               │
-│ [████████████████████████████████] 100%                │
-│                                                        │
-│ ✓ Android Development Engine                           │
-│ ✓ Telegram Automation Framework                        │
-│ ✓ Study Sphere Workspace                               │
-│ ✓ AI Integration Modules                               │
-│ ✓ JavaScript Runtime                                   │
-│ ✓ Linux Environment                                    │
-│ ✓ Creative Design Suite                                │
-│ ✓ GitHub Synchronization                               │
-│                                                        │
-│ Developer : Nur Islam                                  │
-│ Status    : ONLINE                                     │
-│ Mode      : DEVELOPMENT                                │
-│ System    : Linux                                      │
-│ Editor    : VS Code                                    │
-│ Mission   : Build elegant software                     │
-│                                                        │
-│ > Welcome back, Nur.                                   │
-└────────────────────────────────────────────────────────┘</code></pre>
-    </td>
-    <td width="45%" valign="top">
-<pre><code>╭──────────────────────────────────────────────╮
-│                                              │
-│        🚀 CURRENT DEVELOPMENT STATUS         │
-│                                              │
-│   📚 Study Sphere                 ████████░░ │
-│   🤖 Telegram Automation          ██████████ │
-│   ⚡ AI Utilities                 ███████░░░ │
-│   🌐 Web Development              ████████░░ │
-│   🎨 UI / UX                      █████████░ │
-│                                              │
-╰──────────────────────────────────────────────╯</code></pre>
-    </td>
-  </tr>
-</table>
-
-## 🛸 DEVELOPER IDENTITY
-
-<table align="center">
-  <tr>
-    <td width="60%" valign="top">
-<pre lang="javascript"><code>const nur = {
-    name: "Nur Islam",
-    alias: "DARKI",
-    role: "Student • Android Developer • Telegram Automation Developer",
-    location: "India",
-    focus: [
-        "Android Applications",
-        "Telegram Automation",
-        "Artificial Intelligence",
-        "Open Source",
-        "Modern UI/UX"
-    ],
-    currentlyBuilding: {
-        app: "Study Sphere",
-        automation: "Telegram Userbot",
-        ai: "AI Productivity Tools",
-        web: "Modern Portfolio & Utilities"
-    },
-    tech: {
-        frontend: ["HTML", "CSS", "JavaScript"],
-        backend: ["Node.js"],
-        mobile: ["Android"],
-        database: ["Firebase", "SQLite"],
-        tools: ["Git", "GitHub", "VS Code", "Linux", "Figma"]
-    },
-    motto: "Build something today that makes tomorrow easier."
-};</code></pre>
-    </td>
-    <td width="40%" valign="top">
-      <h3>💡 Quick Info</h3>
-      <ul>
-        <li>💼 Android & JavaScript Developer</li>
-        <li>📱 Creator of Study Sphere</li>
-        <li>🤖 Telegram Automation Enthusiast</li>
-        <li>🌐 Open Source Contributor</li>
-        <li>🎨 UI/UX & Graphics Designer</li>
-        <li>🐧 Linux User</li>
-        <li>⚡ Always Learning New Technologies</li>
-      </ul>
-      <br>
-<pre lang="yaml"><code># Fun Facts
-Name: Nur Islam
-Alias: DARKI
-OS: Linux 🐧
-Editor: VS Code
-Favorite Language: JavaScript
-Currently Learning:
-  - AI
+```yaml
+frontend:
+  - HTML / CSS
+  - JavaScript / TypeScript
+  - React / Vite
+backend_and_runtime:
+  - Node.js
+  - Python
+  - SQLite / MongoDB / Firebase
+mobile:
   - Android
-  - Cloud Tech</code></pre>
-    </td>
-  </tr>
-</table>
-
-## ⚡ Tech Stack & Arsenal
-
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=js,python,html,css,nodejs,firebase,npm,androidstudio,gradle,sqlite,mongodb,git,github,vscode,linux,bash,figma,ps,ai,docker,cloudflare,vercel,netlify,markdown&perline=12" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nur12islam&show_icons=true&theme=dark&bg_color=0d1117&border_color=00E5FF&title_color=00E5FF&icon_color=00E5FF&hide_border=true&border_radius=10" height="190" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nur12islam&layout=compact&theme=dark&bg_color=0d1117&border_color=00E5FF&title_color=00E5FF&hide_border=true&border_radius=10" height="190" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=nur12islam&bg_color=0d1117&color=00E5FF&line=00E5FF&point=ffffff&area=true&hide_border=true" />
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=nur12islam&theme=radical&no-frame=true&no-bg=true&margin-w=15" />
-</div>
-
-## 🚀 Featured Architectures
-
-<table align="center">
-  <tr>
-    <td width="50%" align="center" valign="top">
-      <h3>📚 Study Sphere</h3>
-      <p><i>A complete student productivity platform with rich features and clean UI.</i></p>
-      <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
-      <br><br>
-      <div align="left">
-        <ul>
-          <li>📖 Smart Notes & Rich Text</li>
-          <li>📷 Document Scanner Integration</li>
-          <li>☁️ Cloud Sync & File Manager</li>
-          <li>📄 PDF Reader & Planner</li>
-        </ul>
-      </div>
-    </td>
-    <td width="50%" align="center" valign="top">
-      <h3>🤖 Telegram Userbot</h3>
-      <p><i>Powerful automation framework with AI utilities and admin workflows.</i></p>
-      <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white"/>
-      <img src="https://img.shields.io/badge/Telegram-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-      <br><br>
-      <div align="left">
-        <ul>
-          <li>🧠 AI Commands & Utilities</li>
-          <li>⚙️ Advanced Admin Tools</li>
-          <li>📂 Media & Downloader Plugins</li>
-          <li>🔄 Custom Automation Workflows</li>
-        </ul>
-      </div>
-    </td>
-  </tr>
-</table>
-
-### 📂 More Projects
-| 🚀 Project | Description | Status |
-|:---------:|-------------|:------:|
-| 📚 **Study Sphere** | Student productivity platform with notes, PDF management, document scanner, cloud sync and modern UI. | 🟢 Active |
-| 🤖 **Telegram Userbot** | Powerful automation framework with AI utilities, media tools, admin features and productivity commands. | 🟢 Active |
-| 🌐 **Modern Web Projects** | Responsive websites featuring glassmorphism, animations and premium UI. | 🟢 Active |
-| ⚡ **AI Utilities** | AI-powered tools for automation, productivity and learning. | 🚧 In Progress |
-
-
-## ⚙️ Development Environment
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-<pre lang="yaml"><code>OS:
-  - Linux
-Editor:
-  - VS Code
-Version Control:
-  - Git
-  - GitHub
-Package Manager:
-  - npm
-Database:
-  - Firebase
-  - SQLite
-Design:
+  - Gradle
+automation:
+  - Telegram
+  - Linux / Bash
+creative:
+  - UI/UX
   - Figma
   - Photoshop
-Deployment:
-  - GitHub Pages
-  - Linux Server</code></pre>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎯 2026 Goals</h3>
-      <ul>
-        <li>🚀 Build useful Open Source software</li>
-        <li>🤖 Create AI-powered Telegram tools</li>
-        <li>📱 Publish Android apps</li>
-        <li>🌍 Contribute more to GitHub</li>
-        <li>⚡ Learn new technologies</li>
-      </ul>
-      <br>
-      <blockquote>
-        "Code should solve problems, design should create experiences, and technology should make life easier."
-      </blockquote>
-    </td>
-  </tr>
-</table>
+  - Video Editing
+workflow:
+  - Git / GitHub
+  - VS Code
+  - Docker
+  - Cloud platforms
+```
+
+## `03` // ACTIVE REPOSITORY GRID
+
+### ⚡ New / Current Builds
+
+| Repository | Signal | What it is |
+|---|:---:|---|
+| **[Rits](https://github.com/nur12islam/Rits)** | `NEW` | Current project / experimental build |
+| **[rits-ub](https://github.com/nur12islam/rits-ub)** | `ACTIVE` | Rits-related userbot / automation workspace |
+| **[Thesis-Verse](https://github.com/nur12islam/Thesis-Verse)** | `ACTIVE` | Academic / thesis-oriented project |
+| **[Pc-darki](https://github.com/nur12islam/Pc-darki)** | `BUILD` | Personal PC / DARKI ecosystem project |
+| **[Odysseus](https://github.com/nur12islam/odysseus)** | `BUILD` | Large-scale active development workspace |
+
+### 🧬 Automation / Legacy Systems
+
+| Repository | Signal | Focus |
+|---|:---:|---|
+| **[MUSIC-VC](https://github.com/nur12islam/MUSIC-VC)** | `CORE` | Telegram / voice / music automation |
+| **[Userge](https://github.com/nur12islam/Userge)** | `CORE` | Telegram userbot framework |
+| **[Ultroid_x](https://github.com/nur12islam/Ultroid_x)** | `CORE` | Telegram automation / userbot ecosystem |
+| **[DDT](https://github.com/nur12islam/DDT)** | `LAB` | Development / experimental workspace |
+
+### 🌐 Personal Infrastructure
+
+| Repository | Signal | Purpose |
+|---|:---:|---|
+| **[nur12islam.github.io](https://github.com/nur12islam/nur12islam.github.io)** | `LIVE` | Personal portfolio website |
+| **[nur12islam](https://github.com/nur12islam/nur12islam)** | `LIVE` | This GitHub profile / developer command center |
+
+> **Private systems:** some work is intentionally kept private and therefore does not appear in the public repository grid.
+
+## `04` // PROJECT MATRIX
+
+```text
+                    ┌─────────────────────────────┐
+                    │       DARKI ECOSYSTEM       │
+                    └──────────────┬──────────────┘
+                                   │
+              ┌────────────────────┼────────────────────┐
+              │                    │                    │
+         SOFTWARE              AUTOMATION           CREATIVE
+              │                    │                    │
+       ┌──────┼──────┐       ┌─────┼─────┐       ┌─────┼─────┐
+       │      │      │       │     │     │       │     │     │
+     Android  Web    AI   Telegram Linux Bots   UI/UX Video Graphics
+       │      │      │       │     │     │       │     │     │
+       └──────┴──────┴───────┴─────┴─────┴───────┴─────┴─────┘
+                                   │
+                              OPEN SOURCE
+```
+
+## `05` // GITHUB TELEMETRY
 
 <div align="center">
-  <br>
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"/>
+
+<img src="https://github-readme-stats.vercel.app/api?username=nur12islam&show_icons=true&theme=transparent&bg_color=0d1117&border_color=00e5ff&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&hide_border=false&border_radius=12" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nur12islam&layout=compact&theme=transparent&bg_color=0d1117&border_color=00e5ff&title_color=00e5ff&text_color=c9d1d9&hide_border=false&border_radius=12" height="180" />
+
+<br>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nur12islam&theme=transparent&background=0d1117&border=00e5ff&ring=00e5ff&fire=ffffff&currStreakLabel=00e5ff&sideLabels=8b949e&dates=8b949e" width="70%" />
+
+</div>
+
+## `06` // BUILD LOG
+
+```text
+[ SYSTEM ] ───────────────────────────────────────────────────────────
+
+  ✓ Android development
+  ✓ Telegram automation
+  ✓ Web interfaces
+  ✓ Linux / Termux workflows
+  ✓ AI-assisted tools
+  ✓ UI / UX systems
+  ✓ Video & graphics production
+  ↻ Open-source ecosystem expansion
+  ↻ Experimental projects
+  → More systems loading...
+
+[ OBJECTIVE ]
+
+  Make technology useful.
+  Make interfaces memorable.
+  Keep learning.
+  Ship things.
+```
+
+## `07` // CURRENT DIRECTIVES — 2026
+
+- 🚀 Build and ship useful open-source software
+- 🤖 Expand AI + automation tooling
+- 📱 Push Android development further
+- 🧠 Turn experiments into maintainable projects
+- 🎨 Merge strong visual design with engineering
+- 🐧 Keep exploring Linux / Termux workflows
+- 🌐 Keep the personal portfolio and GitHub ecosystem synchronized
+
+## `08` // CONNECT
+
+<div align="center">
+
+[![GitHub](https://img.shields.io/badge/GitHub-nur12islam-111111?style=for-the-badge&logo=github)](https://github.com/nur12islam)
+[![Portfolio](https://img.shields.io/badge/Portfolio-nur12islam.github.io-111111?style=for-the-badge&logo=googlechrome)](https://nur12islam.github.io)
+[![CV](https://img.shields.io/badge/CV-DARKI-111111?style=for-the-badge&logo=readthedocs)](https://nur12islam.github.io/darki-cv.pdf)
+
+</div>
+
+<div align="center">
+
+### `◢ END OF TRANSMISSION // SYSTEM STILL RUNNING ◣`
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00e5ff,50:0b2535,100:050b14&height=100&section=footer" width="100%"/>
+
 </div>
