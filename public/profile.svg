@@ -1,0 +1,27 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="630" viewBox="0 0 1200 630" role="img" aria-labelledby="title desc">
+  <title id="title">Nur Islam — DARKI</title>
+  <desc id="desc">Student, developer, designer and open source builder.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#0b1220"/>
+      <stop offset="0.55" stop-color="#102a43"/>
+      <stop offset="1" stop-color="#0b111a"/>
+    </linearGradient>
+    <linearGradient id="line" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0" stop-color="#00e5ff" stop-opacity="0"/>
+      <stop offset="0.5" stop-color="#00e5ff"/>
+      <stop offset="1" stop-color="#00e5ff" stop-opacity="0"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <circle cx="1030" cy="100" r="210" fill="#00e5ff" opacity="0.06"/>
+  <circle cx="180" cy="560" r="230" fill="#38bdf8" opacity="0.05"/>
+  <rect x="70" y="70" width="1060" height="490" rx="34" fill="#07101c" fill-opacity="0.7" stroke="#1f3b53"/>
+  <text x="115" y="165" fill="#6ee7f9" font-family="JetBrains Mono, monospace" font-size="24" font-weight="700">// NUR12ISLAM.DEV</text>
+  <text x="115" y="255" fill="#ffffff" font-family="Inter, Arial, sans-serif" font-size="76" font-weight="700">Nur Islam</text>
+  <text x="115" y="315" fill="#a5b4fc" font-family="Inter, Arial, sans-serif" font-size="32" font-weight="600">DARKI</text>
+  <rect x="115" y="355" width="870" height="2" fill="url(#line)"/>
+  <text x="115" y="410" fill="#cbd5e1" font-family="Inter, Arial, sans-serif" font-size="27">Student · Developer · Designer · Open Source Builder</text>
+  <text x="115" y="460" fill="#94a3b8" font-family="Inter, Arial, sans-serif" font-size="22">Android · AI · Telegram Automation · UI/UX · Linux</text>
+  <text x="115" y="520" fill="#64748b" font-family="JetBrains Mono, monospace" font-size="18">Build something today that makes tomorrow easier.</text>
+</svg>
