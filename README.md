@@ -132,16 +132,29 @@ workflow:
 
 ## `05` // GITHUB TELEMETRY
 
+```text
+┌──────────────────────────────────────────────────────────────────────┐
+│ TELEMETRY                                                           │
+├──────────────────────────────────────────────────────────────────────┤
+│ PROFILE      : github.com/nur12islam                                │
+│ REPOSITORIES : public ecosystem indexed above                       │
+│ ACTIVITY     : live GitHub contribution graph                       │
+│ SIGNAL       : ● ACTIVE                                              │
+│ DATA SOURCE  : GitHub                                                │
+└──────────────────────────────────────────────────────────────────────┘
+```
+
 <div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=nur12islam&show_icons=true&theme=transparent&bg_color=0d1117&border_color=00e5ff&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&hide_border=false&border_radius=12" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nur12islam&layout=compact&theme=transparent&bg_color=0d1117&border_color=00e5ff&title_color=00e5ff&text_color=c9d1d9&hide_border=false&border_radius=12" height="180" />
-
-<br>
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nur12islam&theme=transparent&background=0d1117&border=00e5ff&ring=00e5ff&fire=ffffff&currStreakLabel=00e5ff&sideLabels=8b949e&dates=8b949e" width="70%" />
 
+<br><br>
+
+**[↗ Open live GitHub activity](https://github.com/nur12islam)**
+
 </div>
+
+> **Telemetry note:** the profile intentionally avoids the two unstable external stats-image endpoints that were rendering as broken images. The remaining streak panel is kept because it is currently rendering correctly, while the primary source of truth remains GitHub itself.
 
 ## `06` // BUILD LOG
 
