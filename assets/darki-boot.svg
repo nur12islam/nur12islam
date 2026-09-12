@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="250" viewBox="0 0 1200 250" role="img" aria-labelledby="title desc">
+<title id="title">DARKI boot sequence</title><desc id="desc">Animated terminal boot sequence for the DARKI developer profile.</desc>
+<rect width="1200" height="250" rx="16" fill="#050912" stroke="#00e5ff" stroke-opacity=".18"/>
+<g font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13">
+<text x="28" y="32" fill="#00e5ff">DARKI//BOOT_SEQUENCE</text><text x="1050" y="32" fill="#55727e">v2026.09</text>
+<line x1="28" y1="48" x2="1172" y2="48" stroke="#00e5ff" stroke-opacity=".15"/>
+<g fill="#8da3ad">
+<text x="32" y="78">[01] loading identity.................</text><text x="430" y="78" fill="#00e5ff">OK</text>
+<text x="32" y="108">[02] mounting creative engine..........</text><text x="430" y="108" fill="#00e5ff">OK</text>
+<text x="32" y="138">[03] synchronizing project matrix......</text><text x="430" y="138" fill="#00e5ff">OK</text>
+<text x="32" y="168">[04] initializing open-source core.....</text><text x="430" y="168" fill="#00e5ff">OK</text>
+</g>
+<g fill="#00e5ff"><text x="32" y="208">[ SYSTEM ]</text><text x="132" y="208">DARKI CORE ONLINE</text><text x="370" y="208">●</text><text x="390" y="208" fill="#8da3ad">ready for next build</text></g>
+<g fill="#00e5ff"><rect x="32" y="222" width="1060" height="2" rx="1"><animate attributeName="width" values="20;1060;760;1060" dur="5s" repeatCount="indefinite"/></rect><rect x="32" y="222" width="8" height="2"><animate attributeName="x" values="32;1084;32" dur="5s" repeatCount="indefinite"/></rect></g>
+<text x="1110" y="208" fill="#00e5ff">_</text><animate attributeName="opacity" values="1;0;1" dur="1s" repeatCount="indefinite"/>
+</g></svg>
