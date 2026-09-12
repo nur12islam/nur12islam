@@ -31,6 +31,12 @@
 
 <div align="center">
 
+<img src="https://raw.githubusercontent.com/nur12islam/nur12islam/main/assets/darki-core.svg" alt="Animated DARKI system core" width="100%"/>
+
+</div>
+
+<div align="center">
+
 > **Code builds the engine. Design gives it a personality.**
 
 </div>
@@ -153,8 +159,6 @@ workflow:
 **[↗ Open live GitHub activity](https://github.com/nur12islam)**
 
 </div>
-
-> **Telemetry note:** the profile intentionally avoids the two unstable external stats-image endpoints that were rendering as broken images. The remaining streak panel is kept because it is currently rendering correctly, while the primary source of truth remains GitHub itself.
 
 ## `06` // BUILD LOG
 
