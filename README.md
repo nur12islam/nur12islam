@@ -51,7 +51,7 @@ I enjoy turning ideas into practical tools: Android and web applications, Telegr
 
 My personal site is the visual layer of the ecosystem; this profile is the **source-code layer**.
 
-**→ Live portfolio:** me.darki.online
+**→ Live portfolio:** https://me.darki.online
 
 ## `02` // TECH ARSENAL
 
